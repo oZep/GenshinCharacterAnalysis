@@ -1,4 +1,4 @@
-# GenshinCharacterAnalysis
+# Genshin Character Stats Analysis
 
 ## This program takes Genshin Character Data that looks like this:
 <img width="987" alt="Screenshot 2023-05-27 at 2 19 11 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/84656dec-be9c-465f-a4ba-87fc54463a1d">
@@ -18,7 +18,7 @@
 **For all 41 characters!**
 
 ### How to Use
-- Download All Scripts
-- Copy where you saved the Genshin_Impact_All_Character_Strat.csv
-- Go to the genshinPlots-checkpoint.ipynb, and change the file path at [1] line 2 to the file path of where Genshin_Impact_All_Character_Strat.csv is currently stored
-- Run the program and enjoy!
+1. Download All Scripts
+2. Copy where you saved the Genshin_Impact_All_Character_Strat.csv
+3. Go to the genshinPlots-checkpoint.ipynb, and change the file path at [1] line 2 to the file path of where Genshin_Impact_All_Character_Strat.csv is currently stored
+4. Run the program and enjoy!
