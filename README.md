@@ -1,6 +1,6 @@
 # GenshinCharacterAnalysis
 
-# What does this program do?
+- What does this program do?
 
 ## It takes Genshin Character Data that looks like this:
 <img width="987" alt="Screenshot 2023-05-27 at 2 19 11 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/84656dec-be9c-465f-a4ba-87fc54463a1d">
@@ -16,4 +16,10 @@ __Base Heath Vs Character Level__
 __Base Defense Vs Character Level__
 <img width="430" alt="Screenshot 2023-05-27 at 2 24 51 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/bf8b8d5a-5498-47fb-a696-51f158ba2d4e">
 
-*For all 41 characters!
+**For all 41 characters!**
+
+# How to Use
+- Download All Scripts
+- Copy where you saved the Genshin_Impact_All_Character_Strat.csv
+- Go to the genshinPlots-checkpoint.ipynb, and change the file path at [1] line 2 to the file path of where Genshin_Impact_All_Character_Strat.csv is currently stored
+- Run the program and enjoy!
