@@ -17,7 +17,7 @@
 
 **For all 41 characters!**
 
-### How to Use
+## How to Use:
 1. Download All Scripts
 2. Copy where you saved the Genshin_Impact_All_Character_Strat.csv
 3. Go to the genshinPlots-checkpoint.ipynb, and change the file path at [1] line 2 to the file path of where Genshin_Impact_All_Character_Strat.csv is currently stored
