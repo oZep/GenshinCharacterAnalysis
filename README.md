@@ -5,13 +5,13 @@
 
 ## And turns it into an easier to digest progression graph:
 
-#### Base Attack Vs Character Level
+#### Base Attack vs Character Level
 <img width="404" alt="Screenshot 2023-05-27 at 2 22 23 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/8129743b-fac8-4db9-81ce-1d299816108c">
 
-#### Base Heath Vs Character Level
+#### Base Heath vs Character Level
 <img width="489" alt="Screenshot 2023-05-27 at 2 23 22 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/be889944-7c1c-4a36-9d31-9c54becc1ac0">
 
-#### Base Defense Vs Character Level
+#### Base Defense vs Character Level
 
 <img width="430" alt="Screenshot 2023-05-27 at 2 24 51 PM" src="https://github.com/JJoeyIssa/GenshinCharacterAnalysis/assets/97713154/bf8b8d5a-5498-47fb-a696-51f158ba2d4e">
 
